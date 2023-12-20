@@ -1,33 +1,40 @@
 {
-  "projects": [
+  "posts": [
     {
       "id": 1,
       "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "author": "Me",
+      "date": "",
+      "link": "",
+      "text": "Module 2 project - Integrate a React app with backend."
     },
     {
       "id": 2,
       "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
+      "author": "Me",
+      "date": "",
+      "link": "",
+      "text": "Create a full-stack application using MERN stack."
     }
   ],
-  "tasks": [
+  "comments": [
     {
       "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "postId": 1,
+      "description": "Use Vite to create a basic React app",
+      "author": "Me"
     },
     {
       "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "postId": 1,
+      "description": "Install React Router and setup routes",
+      "author": "Me"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "postId": 2,
+      "description": "Create a form with 5 input fields",
+      "author": "Me"
     }
   ]
 }
