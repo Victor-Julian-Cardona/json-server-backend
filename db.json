@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "title": "Module 2 Project",
+      "title": "Module 1 Project",
       "author": "Me",
       "date": "",
       "link": "",
@@ -10,11 +10,51 @@
     },
     {
       "id": 2,
+      "title": "Module 2 Project",
+      "author": "Me",
+      "date": "",
+      "link": "",
+      "text": "Module 2 project - Integrate a React app with backend."
+    },
+    {
+      "id": 3,
       "title": "Module 3 Project",
       "author": "Me",
       "date": "",
       "link": "",
-      "text": "Create a full-stack application using MERN stack."
+      "text": "Module 2 project - Integrate a React app with backend."
+    },
+    {
+      "id": 4,
+      "title": "Module 4 Project",
+      "author": "Me",
+      "date": "",
+      "link": "",
+      "text": "Module 3 project - Integrate a React app with backend."
+    },
+    {
+      "id": 10,
+      "title": "",
+      "author": "me",
+      "date": "2023-12-20",
+      "link": "https://p.scdn.co/mp3-preview/f055a866d726bac8593f15953d772c631505df7e?cid=b73e80c9cb534dab9bbb57b06ccfa5cb",
+      "text": "gkjhlk"
+    },
+    {
+      "id": 11,
+      "title": "Slam dunk",
+      "author": "me",
+      "date": "12-20-2023",
+      "link": "https://p.scdn.co/mp3-preview/e5423426e155c7a6bdf64a364ccbb6e56765e5d9?cid=b73e80c9cb534dab9bbb57b06ccfa5cb",
+      "text": "Hello, i did it"
+    },
+    {
+      "id": 12,
+      "title": "Hello",
+      "author": "Its me",
+      "date": "12-20-2023",
+      "link": "",
+      "text": "I did it"
     }
   ],
   "comments": [
@@ -33,7 +73,7 @@
     {
       "id": 3,
       "postId": 2,
-      "description": "Create a form with 5 input fields",
+      "description": "Install React Router and setup routes",
       "author": "Me"
     }
   ]
